@@ -1,0 +1,11 @@
+{
+    "name": "pszkudlarek1/pakiet1",
+    "description": "Pakiet testowy",
+    "authors": [
+        {
+            "name": "Piotr Szkudlarek",
+            "email": "pszkudlarek@zoltanmultimedia.pl"
+        }
+    ],
+    "require": {}
+}

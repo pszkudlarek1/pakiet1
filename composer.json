@@ -8,8 +8,8 @@
         }
     ],
     "require": {},
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "prefer-stable": false,
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.0-dev"
